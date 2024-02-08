@@ -89,7 +89,6 @@ textarea:not([rows]) {
 }
 
 body {
-  overflow: hidden;
   background-color: hsl(212, 45%, 89%);
   display: grid;
   place-content: center;
