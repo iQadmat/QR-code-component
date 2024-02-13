@@ -18,7 +18,7 @@
 ### Links
 
 - Solution URL: [Solution Page](https://www.frontendmentor.io/solutions/qr-code-component-CsngN26zro)
-- Live Site URL: [Deployment](https://iqadmat-qr-code-component.netlify.app/)
+- Live Site URL: [Deployment](https://iqadmat-qr-code.netlify.app/)
 
 ## My process
 
