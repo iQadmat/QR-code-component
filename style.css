@@ -104,14 +104,18 @@ body {
 main section {
   background-color: hsl(0, 0%, 100%);
   color: hsl(220, 15%, 55%);
-  max-width: 20rem;
+  max-width: 21rem;
   margin: 1rem;
   border-radius: 1.5rem;
-  padding: 1.5rem;
+  padding: 1rem;
+}
+
+main section div {
+  padding: 1rem;
 }
 
 section img {
-  border-radius: 1rem;
+  border-radius: 0.75rem;
 }
 
 section h1 {
